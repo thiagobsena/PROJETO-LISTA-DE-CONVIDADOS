@@ -1,0 +1,1 @@
+let inputAdutos = document.getElementById
